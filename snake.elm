@@ -1,3 +1,5 @@
+--for commiting purposes
+
 import Html as App
 import Window
 import Time exposing (Time)

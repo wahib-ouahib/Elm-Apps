@@ -1,3 +1,3 @@
-import Html
+import Html exposing(..)
 
-main = Html.text "hello Dexyde"
+main = text "hello Dexyde"

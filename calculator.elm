@@ -1,6 +1,6 @@
 import Html exposing(..)
 import Html.Attributes exposing(..)
-import Html as App
+import Html
 import Html.Events exposing(onClick)
 import String exposing(..)
 

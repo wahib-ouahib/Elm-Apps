@@ -2,7 +2,7 @@
 Elm Apps, from Hello World to a Calculator
 
 
-sampless
+samples
 
 
 
